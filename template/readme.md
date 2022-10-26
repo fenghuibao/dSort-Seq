@@ -1,10 +1,10 @@
-## The upload file format requirements for the dSort-Seq server (http://www.thu-big.net/dsort-seq/)
+## The upload file format requirements for the dSort-Seq server (http://www.thu-big.net/dsort-seq/).
 
 ### Four files are needed to calculate the expression mean and noise, which are:
 
 #### 1. Binned distribution (.txt, .csv, .xls, .xlsx)
 
-The proportion of each variant across bins, $P_{ik}$: $\sum_{k=1}^{K}P_{ik} = 1$. Please note that to ensure the privacy of your result, you do not need to provide the sequence of each variant. For an example, see example/binned_distribution.csv.
+The proportion of each variant across bins, $P_{ik}$: $\sum_k P_{ik} = 1$. Please note that to ensure the privacy of your result, you do not need to provide the sequence of each variant. For an example, see example/binned_distribution.csv.
 
 #### 2. Sorting boundaries (.txt, .csv, .xls, .xlsx)
 
