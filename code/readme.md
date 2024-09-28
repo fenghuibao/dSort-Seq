@@ -24,4 +24,4 @@ python dSort-Seq.py -p Mixing_coefficient.csv -f Binned_distribution.csv -d Over
 
 
 ### Reference
-Feng et al., 2023
+Feng, Huibao, et al. "Deep-learning–assisted Sort-Seq enables high-throughput profiling of gene expression characteristics with high precision." Science Advances 9.45 (2023): eadg5296.
